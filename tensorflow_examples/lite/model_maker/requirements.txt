@@ -1,5 +1,5 @@
-tf-nightly
-tf-models-nightly
+tensorflow=2.1.0
+tf-models-official=2.1.0.dev2
 tensorflow-hub>=0.8.0
 numpy>=1.17.3
 pillow
